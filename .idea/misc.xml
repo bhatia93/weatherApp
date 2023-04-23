@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROID/DEVELOPER ANDROID/2022/All Items/AIE22/WeatherApp/app/src/main/res/drawable-v24/ic_bottom_search.xml" value="0.1415" />
+        <entry key="..\:/ANDROID/DEVELOPER ANDROID/2022/All Items/AIE22/WeatherApp/app/src/main/res/drawable/ic_sunrise.xml" value="0.1415" />
+        <entry key="..\:/ANDROID/DEVELOPER ANDROID/2022/All Items/AIE22/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/ANDROID/DEVELOPER ANDROID/2022/All Items/AIE22/WeatherApp/app/src/main/res/layout/item_search_city_history_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID/DEVELOPER ANDROID/2022/All Items/AIE22/WeatherApp/app/src/main/res/layout/layout_sunrise_sunset.xml" value="0.25" />
+        <entry key="..\:/ANDROID/DEVELOPER ANDROID/2022/All Items/AIE22/WeatherApp/app/src/main/res/layout/layout_weather_basic_info.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
